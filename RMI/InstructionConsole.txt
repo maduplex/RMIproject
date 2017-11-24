@@ -1,0 +1,1 @@
+Il faut aller dans le 'bin' et ouvrir le RMi depuis la console avec rmiregistry <port>
